@@ -1,0 +1,20 @@
+{
+    "Author": "Stewart Viera",
+    "ContentSize": 1713,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/template-deployment-through-a-powershell-workflow-runbook/master/TemplateDeploymentWorkflow.ps1",
+    "DownloadCount": 1267,
+    "Id": "Template-Deployment-6124bc32",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 335,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-4-6T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Deploys a template and parameter file against a resource group. It can be used to automate deployments that may occur more than once. This Workflow assumes the ARM template and parameter file are stored in an online repo. If using a storage account for your templates, make sure t",
+    "Title": "Template Deployment through a PowerShell Workflow Runbook",
+    "UpdatedDate": "2017-4-6T00:00:00",
+    "Url": "https://github.com/azureautomation/template-deployment-through-a-powershell-workflow-runbook",
+    "UserTags": "JSON, Automation, Template"
+}
